@@ -1,0 +1,2 @@
+# zaid.py
+Hello firend
